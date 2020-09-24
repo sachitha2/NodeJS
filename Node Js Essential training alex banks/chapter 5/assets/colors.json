@@ -1,0 +1,11 @@
+{
+    "colorsList":[
+        {"color":"red",
+         "hex":"#FF0000"
+        },
+        {"color":"green",
+            "hex":"#00FF00"
+           }
+
+    ]
+}
